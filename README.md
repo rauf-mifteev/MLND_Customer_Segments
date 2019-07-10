@@ -2,7 +2,7 @@
 
 ## Project overview
 
-In this project I analyze data containing various costomers' annual spending amounts on different product categories to get insight into how to best structure distributors delivery service. For this I am using different **Machine Learning** concepts:
+This is Creating Customer Segments project for Udacity Machine Learning Engineer Nanodegree. In this project, I analyze data containing various costomers' annual spending amounts on different product categories to get insight into how to best structure distributors delivery service. For this I am using different **Machine Learning** concepts:
 
 * Feature scaling
 * Outlier detection
