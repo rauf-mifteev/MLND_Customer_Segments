@@ -1,5 +1,15 @@
 # Creating Customer Segments Project for Udacity Machine Learning Engineer Nanodegree
 
+## Project overview
+
+In this project I analyze data containing various costomers' annual spending amounts on different product categories to get insight into how to best structure distributors delivery service. For this I am using different **Machine Learning** concepts:
+
+* Feature scaling
+* Outlier detection
+* Dimensionality reduction using **Principle Component Analysis**
+* Unsupervised learning algorithms like **K-Means Clustering** and **Gaussian Mixture Model Clustering**
+* **Silhouette coefficient** for clustering
+
 ## Prerequisites
 
 The code is **Python** in a **Jupyter Notebook** and it uses:
