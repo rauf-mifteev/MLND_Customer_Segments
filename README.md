@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This is Creating Customer Segments project for Udacity Machine Learning Engineer Nanodegree. In this project I apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
+This is Creating Customer Segments project for Udacity Machine Learning Engineer Nanodegree. In this project, I apply **unsupervised learning** techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
 * First, I explore the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. 
 * Then, I preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. 
 * Afterwards, I apply **Principle Component Analysis** (PCA) transformations to the data and implement **Gaussian Mixture Model** (GMM) clustering  algorithm to segment the transformed customer data using **Silhouette coefficient** to choose the number of clusters. 
